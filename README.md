@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/GitHub-050509?style=for-the-badge&amp;logo=github&amp;logoColor=ffffff" alt="GitHub"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=IshaKad&amp;label=PROFILE+VIEWS&amp;color=7B2CFF&amp;style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=IshaKad&amp;label=PROFILE+VIEWS&amp;color=7B2CFF&amp;style=for-the-badge"/>
 
 </div>
 
