@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;section=header&amp;text=ISHA%20KADAM&amp;fontSize=64&amp;fontColor=ffffff&amp;fontAlignY=42&amp;desc=AI%20%26%20DATA%20SCIENCE&amp;descSize=20&amp;descAlignY=62&amp;color=0:001C2B,50:12002B,100:2a1a4e" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=ISHA%20KADAM&fontSize=64&fontColor=ffffff&fontAlignY=42&color=0:001C2B,50:12002B,100:2a1a4e"/>
 
 <br>
 
