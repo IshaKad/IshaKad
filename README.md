@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=ISHA%20KADAM&fontSize=64&fontColor=ffffff&fontAlignY=42&desc=AI%20%26%20DATA%20SCIENCE&descSize=20&descAlignY=62&color=0:001C2B,50:12002B,100:2a1a4e" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;section=header&amp;text=ISHA%20KADAM&amp;fontSize=64&amp;fontColor=ffffff&amp;fontAlignY=42&amp;desc=AI%20%26%20DATA%20SCIENCE&amp;descSize=20&amp;descAlignY=62&amp;color=0:001C2B,50:12002B,100:2a1a4e" alt="Header"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=Building+with+AI+%26+Data+Science;Turning+ideas+into+intelligent+systems;Exploring+ML%2C+analytics%2C+and+software" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&amp;size=18&amp;duration=3000&amp;pause=900&amp;color=00E5FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Building+with+AI+%26+Data+Science;Turning+ideas+into+intelligent+systems;Exploring+ML%2C+analytics%2C+and+software" alt="Typing Animation"/>
 
 <br><br>
 
 <a href="https://github.com/IshaKad">
-<img src="https://img.shields.io/badge/GitHub-050509?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-050509?style=for-the-badge&amp;logo=github&amp;logoColor=ffffff" alt="GitHub"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=IshaKad&label=PROFILE+VIEWS&color=7B2CFF&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=IshaKad&amp;label=PROFILE+VIEWS&amp;color=7B2CFF&amp;style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
@@ -28,7 +28,7 @@
 
 <br>
 
-I'm an **AI & Data Science engineering student** interested in building intelligent software and solving problems through technology.
+I'm an **AI &amp; Data Science engineering student** interested in building intelligent software and solving problems through technology.
 
 My focus lies across **machine learning, data analytics, software development, and intelligent systems**. I learn by building — experimenting with ideas, turning them into projects, and continuously iterating.
 
@@ -36,9 +36,9 @@ My focus lies across **machine learning, data analytics, software development, a
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/MACHINE%20LEARNING-00E5FF?style=flat-square&logoColor=050509" alt="Machine Learning"/>
-<img src="https://img.shields.io/badge/DATA%20ANALYTICS-7B2CFF?style=flat-square&logoColor=ffffff" alt="Data Analytics"/>
-<img src="https://img.shields.io/badge/SOFTWARE%20DEVELOPMENT-FF2BD6?style=flat-square&logoColor=ffffff" alt="Software Development"/>
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-00E5FF?style=flat-square&amp;logoColor=050509" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/DATA%20ANALYTICS-7B2CFF?style=flat-square&amp;logoColor=ffffff" alt="Data Analytics"/>
+<img src="https://img.shields.io/badge/SOFTWARE%20DEVELOPMENT-FF2BD6?style=flat-square&amp;logoColor=ffffff" alt="Software Development"/>
 
 </div>
 
@@ -54,105 +54,105 @@ My focus lies across **machine learning, data analytics, software development, a
 
 ### LANGUAGES
 
-<img src="https://img.shields.io/badge/C-050509?style=for-the-badge&logo=c&logoColor=00E5FF" alt="C"/>
-<img src="https://img.shields.io/badge/C%2B%2B-050509?style=for-the-badge&logo=cplusplus&logoColor=7B2CFF" alt="C++"/>
-<img src="https://img.shields.io/badge/Java-050509?style=for-the-badge&logo=openjdk&logoColor=FF2BD6" alt="Java"/>
-<img src="https://img.shields.io/badge/Python-050509?style=for-the-badge&logo=python&logoColor=00E5FF" alt="Python"/>
-<img src="https://img.shields.io/badge/JavaScript-050509?style=for-the-badge&logo=javascript&logoColor=FF2BD6" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/TypeScript-050509?style=for-the-badge&logo=typescript&logoColor=7B2CFF" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/Kotlin-050509?style=for-the-badge&logo=kotlin&logoColor=00E5FF" alt="Kotlin"/>
-<img src="https://img.shields.io/badge/PHP-050509?style=for-the-badge&logo=php&logoColor=FF2BD6" alt="PHP"/>
-<img src="https://img.shields.io/badge/SQL-050509?style=for-the-badge&logo=mysql&logoColor=7B2CFF" alt="SQL"/>
+<img src="https://img.shields.io/badge/C-050509?style=for-the-badge&amp;logo=c&amp;logoColor=00E5FF" alt="C"/>
+<img src="https://img.shields.io/badge/C%2B%2B-050509?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=7B2CFF" alt="C++"/>
+<img src="https://img.shields.io/badge/Java-050509?style=for-the-badge&amp;logo=openjdk&amp;logoColor=FF2BD6" alt="Java"/>
+<img src="https://img.shields.io/badge/Python-050509?style=for-the-badge&amp;logo=python&amp;logoColor=00E5FF" alt="Python"/>
+<img src="https://img.shields.io/badge/JavaScript-050509?style=for-the-badge&amp;logo=javascript&amp;logoColor=FF2BD6" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-050509?style=for-the-badge&amp;logo=typescript&amp;logoColor=7B2CFF" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Kotlin-050509?style=for-the-badge&amp;logo=kotlin&amp;logoColor=00E5FF" alt="Kotlin"/>
+<img src="https://img.shields.io/badge/PHP-050509?style=for-the-badge&amp;logo=php&amp;logoColor=FF2BD6" alt="PHP"/>
+<img src="https://img.shields.io/badge/SQL-050509?style=for-the-badge&amp;logo=mysql&amp;logoColor=7B2CFF" alt="SQL"/>
 
 <br><br>
 
 ### FRONTEND
 
-<img src="https://img.shields.io/badge/HTML5-050509?style=for-the-badge&logo=html5&logoColor=00E5FF" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-050509?style=for-the-badge&logo=css3&logoColor=7B2CFF" alt="CSS3"/>
-<img src="https://img.shields.io/badge/React-050509?style=for-the-badge&logo=react&logoColor=00E5FF" alt="React"/>
-<img src="https://img.shields.io/badge/Vue.js-050509?style=for-the-badge&logo=vuedotjs&logoColor=FF2BD6" alt="Vue.js"/>
-<img src="https://img.shields.io/badge/Bootstrap-050509?style=for-the-badge&logo=bootstrap&logoColor=7B2CFF" alt="Bootstrap"/>
-<img src="https://img.shields.io/badge/Tailwind%20CSS-050509?style=for-the-badge&logo=tailwindcss&logoColor=00E5FF" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/HTML5-050509?style=for-the-badge&amp;logo=html5&amp;logoColor=00E5FF" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-050509?style=for-the-badge&amp;logo=css3&amp;logoColor=7B2CFF" alt="CSS3"/>
+<img src="https://img.shields.io/badge/React-050509?style=for-the-badge&amp;logo=react&amp;logoColor=00E5FF" alt="React"/>
+<img src="https://img.shields.io/badge/Vue.js-050509?style=for-the-badge&amp;logo=vuedotjs&amp;logoColor=FF2BD6" alt="Vue.js"/>
+<img src="https://img.shields.io/badge/Bootstrap-050509?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=7B2CFF" alt="Bootstrap"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-050509?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=00E5FF" alt="Tailwind CSS"/>
 
 <br><br>
 
-### BACKEND & BaaS
+### BACKEND &amp; BaaS
 
-<img src="https://img.shields.io/badge/Node.js-050509?style=for-the-badge&logo=nodedotjs&logoColor=00E5FF" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Express.js-050509?style=for-the-badge&logo=express&logoColor=ffffff" alt="Express.js"/>
-<img src="https://img.shields.io/badge/Django-050509?style=for-the-badge&logo=django&logoColor=7B2CFF" alt="Django"/>
-<img src="https://img.shields.io/badge/Flask-050509?style=for-the-badge&logo=flask&logoColor=FF2BD6" alt="Flask"/>
-<img src="https://img.shields.io/badge/Firebase-050509?style=for-the-badge&logo=firebase&logoColor=00E5FF" alt="Firebase"/>
-<img src="https://img.shields.io/badge/Supabase-050509?style=for-the-badge&logo=supabase&logoColor=7B2CFF" alt="Supabase"/>
+<img src="https://img.shields.io/badge/Node.js-050509?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=00E5FF" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express.js-050509?style=for-the-badge&amp;logo=express&amp;logoColor=ffffff" alt="Express.js"/>
+<img src="https://img.shields.io/badge/Django-050509?style=for-the-badge&amp;logo=django&amp;logoColor=7B2CFF" alt="Django"/>
+<img src="https://img.shields.io/badge/Flask-050509?style=for-the-badge&amp;logo=flask&amp;logoColor=FF2BD6" alt="Flask"/>
+<img src="https://img.shields.io/badge/Firebase-050509?style=for-the-badge&amp;logo=firebase&amp;logoColor=00E5FF" alt="Firebase"/>
+<img src="https://img.shields.io/badge/Supabase-050509?style=for-the-badge&amp;logo=supabase&amp;logoColor=7B2CFF" alt="Supabase"/>
 
 <br><br>
 
 ### MOBILE DEVELOPMENT
 
-<img src="https://img.shields.io/badge/Android-050509?style=for-the-badge&logo=android&logoColor=00E5FF" alt="Android"/>
-<img src="https://img.shields.io/badge/Android%20Studio-050509?style=for-the-badge&logo=androidstudio&logoColor=7B2CFF" alt="Android Studio"/>
-<img src="https://img.shields.io/badge/Flutter-050509?style=for-the-badge&logo=flutter&logoColor=FF2BD6" alt="Flutter"/>
+<img src="https://img.shields.io/badge/Android-050509?style=for-the-badge&amp;logo=android&amp;logoColor=00E5FF" alt="Android"/>
+<img src="https://img.shields.io/badge/Android%20Studio-050509?style=for-the-badge&amp;logo=androidstudio&amp;logoColor=7B2CFF" alt="Android Studio"/>
+<img src="https://img.shields.io/badge/Flutter-050509?style=for-the-badge&amp;logo=flutter&amp;logoColor=FF2BD6" alt="Flutter"/>
 
 <br><br>
 
 ### DATABASES
 
-<img src="https://img.shields.io/badge/MySQL-050509?style=for-the-badge&logo=mysql&logoColor=00E5FF" alt="MySQL"/>
-<img src="https://img.shields.io/badge/PostgreSQL-050509?style=for-the-badge&logo=postgresql&logoColor=7B2CFF" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/MySQL%20Workbench-050509?style=for-the-badge&logo=mysql&logoColor=FF2BD6" alt="MySQL Workbench"/>
+<img src="https://img.shields.io/badge/MySQL-050509?style=for-the-badge&amp;logo=mysql&amp;logoColor=00E5FF" alt="MySQL"/>
+<img src="https://img.shields.io/badge/PostgreSQL-050509?style=for-the-badge&amp;logo=postgresql&amp;logoColor=7B2CFF" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MySQL%20Workbench-050509?style=for-the-badge&amp;logo=mysql&amp;logoColor=FF2BD6" alt="MySQL Workbench"/>
 
 <br><br>
 
-### AI & MACHINE LEARNING
+### AI &amp; MACHINE LEARNING
 
-<img src="https://img.shields.io/badge/Scikit--learn-050509?style=for-the-badge&logo=scikitlearn&logoColor=00E5FF" alt="Scikit-learn"/>
-<img src="https://img.shields.io/badge/TensorFlow-050509?style=for-the-badge&logo=tensorflow&logoColor=FF2BD6" alt="TensorFlow"/>
-<img src="https://img.shields.io/badge/PyTorch-050509?style=for-the-badge&logo=pytorch&logoColor=7B2CFF" alt="PyTorch"/>
-<img src="https://img.shields.io/badge/XGBoost-050509?style=for-the-badge&logoColor=00E5FF" alt="XGBoost"/>
-<img src="https://img.shields.io/badge/LSTM-050509?style=for-the-badge&logoColor=FF2BD6" alt="LSTM"/>
+<img src="https://img.shields.io/badge/Scikit--learn-050509?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=00E5FF" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/TensorFlow-050509?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=FF2BD6" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/PyTorch-050509?style=for-the-badge&amp;logo=pytorch&amp;logoColor=7B2CFF" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/XGBoost-050509?style=for-the-badge&amp;logoColor=00E5FF" alt="XGBoost"/>
+<img src="https://img.shields.io/badge/LSTM-050509?style=for-the-badge&amp;logoColor=FF2BD6" alt="LSTM"/>
 
 <br><br>
 
-### DATA & VISUALIZATION
+### DATA &amp; VISUALIZATION
 
-<img src="https://img.shields.io/badge/NumPy-050509?style=for-the-badge&logo=numpy&logoColor=00E5FF" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Pandas-050509?style=for-the-badge&logo=pandas&logoColor=7B2CFF" alt="Pandas"/>
-<img src="https://img.shields.io/badge/Matplotlib-050509?style=for-the-badge&logo=matplotlib&logoColor=FF2BD6" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/Seaborn-050509?style=for-the-badge&logoColor=00E5FF" alt="Seaborn"/>
-<img src="https://img.shields.io/badge/Power%20BI-050509?style=for-the-badge&logo=powerbi&logoColor=7B2CFF" alt="Power BI"/>
-<img src="https://img.shields.io/badge/Excel-050509?style=for-the-badge&logo=microsoftexcel&logoColor=FF2BD6" alt="Excel"/>
-<img src="https://img.shields.io/badge/Jupyter-050509?style=for-the-badge&logo=jupyter&logoColor=00E5FF" alt="Jupyter Notebook"/>
-<img src="https://img.shields.io/badge/Google%20Colab-050509?style=for-the-badge&logo=googlecolab&logoColor=7B2CFF" alt="Google Colab"/>
+<img src="https://img.shields.io/badge/NumPy-050509?style=for-the-badge&amp;logo=numpy&amp;logoColor=00E5FF" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-050509?style=for-the-badge&amp;logo=pandas&amp;logoColor=7B2CFF" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Matplotlib-050509?style=for-the-badge&amp;logo=matplotlib&amp;logoColor=FF2BD6" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Seaborn-050509?style=for-the-badge&amp;logoColor=00E5FF" alt="Seaborn"/>
+<img src="https://img.shields.io/badge/Power%20BI-050509?style=for-the-badge&amp;logo=powerbi&amp;logoColor=7B2CFF" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Excel-050509?style=for-the-badge&amp;logo=microsoftexcel&amp;logoColor=FF2BD6" alt="Excel"/>
+<img src="https://img.shields.io/badge/Jupyter-050509?style=for-the-badge&amp;logo=jupyter&amp;logoColor=00E5FF" alt="Jupyter Notebook"/>
+<img src="https://img.shields.io/badge/Google%20Colab-050509?style=for-the-badge&amp;logo=googlecolab&amp;logoColor=7B2CFF" alt="Google Colab"/>
 
 <br><br>
 
 ### GENERATIVE AI
 
-<img src="https://img.shields.io/badge/LLMs-050509?style=for-the-badge&logoColor=00E5FF" alt="LLMs"/>
-<img src="https://img.shields.io/badge/Gemini-050509?style=for-the-badge&logo=googlegemini&logoColor=7B2CFF" alt="Gemini"/>
-<img src="https://img.shields.io/badge/ChatGPT-050509?style=for-the-badge&logo=openai&logoColor=00E5FF" alt="ChatGPT"/>
-<img src="https://img.shields.io/badge/Claude-050509?style=for-the-badge&logo=anthropic&logoColor=FF2BD6" alt="Claude"/>
+<img src="https://img.shields.io/badge/LLMs-050509?style=for-the-badge&amp;logoColor=00E5FF" alt="LLMs"/>
+<img src="https://img.shields.io/badge/Gemini-050509?style=for-the-badge&amp;logo=googlegemini&amp;logoColor=7B2CFF" alt="Gemini"/>
+<img src="https://img.shields.io/badge/ChatGPT-050509?style=for-the-badge&amp;logo=openai&amp;logoColor=00E5FF" alt="ChatGPT"/>
+<img src="https://img.shields.io/badge/Claude-050509?style=for-the-badge&amp;logo=anthropic&amp;logoColor=FF2BD6" alt="Claude"/>
 
 <br><br>
 
-### CLOUD & DEVOPS
+### CLOUD &amp; DEVOPS
 
-<img src="https://img.shields.io/badge/AWS-050509?style=for-the-badge&logo=amazonwebservices&logoColor=00E5FF" alt="AWS"/>
-<img src="https://img.shields.io/badge/Kubernetes-050509?style=for-the-badge&logo=kubernetes&logoColor=7B2CFF" alt="Kubernetes"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-050509?style=for-the-badge&logo=githubactions&logoColor=FF2BD6" alt="GitHub Actions"/>
-<img src="https://img.shields.io/badge/CI%2FCD-050509?style=for-the-badge&logoColor=00E5FF" alt="CI/CD"/>
+<img src="https://img.shields.io/badge/AWS-050509?style=for-the-badge&amp;logo=amazonwebservices&amp;logoColor=00E5FF" alt="AWS"/>
+<img src="https://img.shields.io/badge/Kubernetes-050509?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=7B2CFF" alt="Kubernetes"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-050509?style=for-the-badge&amp;logo=githubactions&amp;logoColor=FF2BD6" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/CI%2FCD-050509?style=for-the-badge&amp;logoColor=00E5FF" alt="CI/CD"/>
 
 <br><br>
 
 ### DEVELOPMENT TOOLS
 
-<img src="https://img.shields.io/badge/Git-050509?style=for-the-badge&logo=git&logoColor=00E5FF" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-050509?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"/>
-<img src="https://img.shields.io/badge/VS%20Code-050509?style=for-the-badge&logo=visualstudiocode&logoColor=7B2CFF" alt="VS Code"/>
-<img src="https://img.shields.io/badge/IntelliJ%20IDEA-050509?style=for-the-badge&logo=intellijidea&logoColor=FF2BD6" alt="IntelliJ IDEA"/>
-<img src="https://img.shields.io/badge/PyCharm-050509?style=for-the-badge&logo=pycharm&logoColor=00E5FF" alt="PyCharm"/>
-<img src="https://img.shields.io/badge/Postman-050509?style=for-the-badge&logo=postman&logoColor=7B2CFF" alt="Postman"/>
+<img src="https://img.shields.io/badge/Git-050509?style=for-the-badge&amp;logo=git&amp;logoColor=00E5FF" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-050509?style=for-the-badge&amp;logo=github&amp;logoColor=ffffff" alt="GitHub"/>
+<img src="https://img.shields.io/badge/VS%20Code-050509?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=7B2CFF" alt="VS Code"/>
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-050509?style=for-the-badge&amp;logo=intellijidea&amp;logoColor=FF2BD6" alt="IntelliJ IDEA"/>
+<img src="https://img.shields.io/badge/PyCharm-050509?style=for-the-badge&amp;logo=pycharm&amp;logoColor=00E5FF" alt="PyCharm"/>
+<img src="https://img.shields.io/badge/Postman-050509?style=for-the-badge&amp;logo=postman&amp;logoColor=7B2CFF" alt="Postman"/>
 
 </div>
 
@@ -174,7 +174,7 @@ My focus lies across **machine learning, data analytics, software development, a
 <h3>01 &nbsp; 5G Network Intelligence</h3>
 
 <p>
-<b>Network Quality Prediction & Intelligent Handover</b>
+<b>Network Quality Prediction &amp; Intelligent Handover</b>
 </p>
 
 <p>
@@ -186,7 +186,7 @@ A machine-learning system exploring 5G network measurements, network quality pre
 </p>
 
 <a href="https://github.com/IshaKad/5G-Network-Quality">
-<img src="https://img.shields.io/badge/EXPLORE-00E5FF?style=for-the-badge&logo=github&logoColor=050509" alt="Explore 5G Network Quality"/>
+<img src="https://img.shields.io/badge/EXPLORE-00E5FF?style=for-the-badge&amp;logo=github&amp;logoColor=050509" alt="Explore 5G Network Quality"/>
 </a>
 
 </td>
@@ -208,7 +208,7 @@ A Java-based interactive memory game built as a full-stack application project.
 </p>
 
 <a href="https://github.com/IshaKad/memory-game-fullstack">
-<img src="https://img.shields.io/badge/EXPLORE-7B2CFF?style=for-the-badge&logo=github&logoColor=ffffff" alt="Explore Memory Game"/>
+<img src="https://img.shields.io/badge/EXPLORE-7B2CFF?style=for-the-badge&amp;logo=github&amp;logoColor=ffffff" alt="Explore Memory Game"/>
 </a>
 
 </td>
@@ -234,7 +234,7 @@ A lightweight Java desktop application for text editing and document handling.
 </p>
 
 <a href="https://github.com/IshaKad/Simple-Word-Processor">
-<img src="https://img.shields.io/badge/EXPLORE-FF2BD6?style=for-the-badge&logo=github&logoColor=ffffff" alt="Explore Simple Word Processor"/>
+<img src="https://img.shields.io/badge/EXPLORE-FF2BD6?style=for-the-badge&amp;logo=github&amp;logoColor=ffffff" alt="Explore Simple Word Processor"/>
 </a>
 
 </td>
@@ -253,7 +253,7 @@ Currently exploring AI, machine learning, data-driven systems, and full-stack de
 
 <br>
 
-<img src="https://img.shields.io/badge/IN%20PROGRESS-050509?style=for-the-badge&logoColor=ffffff" alt="In Progress"/>
+<img src="https://img.shields.io/badge/IN%20PROGRESS-050509?style=for-the-badge&amp;logoColor=ffffff" alt="In Progress"/>
 
 </td>
 
@@ -272,15 +272,15 @@ Currently exploring AI, machine learning, data-driven systems, and full-stack de
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=IshaKad&show_icons=true&hide_border=true&bg_color=050509&title_color=00E5FF&icon_color=FF2BD6&text_color=FFFFFF" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=IshaKad&amp;show_icons=true&amp;hide_border=true&amp;bg_color=050509&amp;title_color=00E5FF&amp;icon_color=FF2BD6&amp;text_color=FFFFFF" height="170"/>
 
 &nbsp;&nbsp;&nbsp;
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshaKad&layout=compact&hide_border=true&bg_color=050509&title_color=7B2CFF&text_color=FFFFFF" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshaKad&amp;layout=compact&amp;hide_border=true&amp;bg_color=050509&amp;title_color=7B2CFF&amp;text_color=FFFFFF" height="170"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=IshaKad&hide_border=true&background=050509&ring=00E5FF&fire=FF2BD6&currStreakLabel=7B2CFF&sideLabels=FFFFFF&dates=777777" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=IshaKad&amp;hide_border=true&amp;background=050509&amp;ring=00E5FF&amp;fire=FF2BD6&amp;currStreakLabel=7B2CFF&amp;sideLabels=FFFFFF&amp;dates=777777" alt="GitHub Streak"/>
 
 </div>
 
@@ -311,6 +311,6 @@ Currently exploring AI, machine learning, data-driven systems, and full-stack de
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00E5FF,35:001C2B,65:12002B,100:FF2BD6" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=130&amp;section=footer&amp;color=0:00E5FF,35:001C2B,65:12002B,100:FF2BD6" width="100%"/>
 
 </div>
